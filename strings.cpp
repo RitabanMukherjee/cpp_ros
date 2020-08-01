@@ -15,7 +15,7 @@ int main(){
 
     cout << phrase.find("Academy", 0) << endl;
 
-    cout << phrase.substr(8, ) << endl;
+    cout << phrase.substr(8, 3) << endl;
 
     return 0;
 }
